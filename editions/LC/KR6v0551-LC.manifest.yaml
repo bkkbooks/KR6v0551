@@ -1,0 +1,588 @@
+canonical_identifier: bkk:krp/KR6v0551/LC/v1
+canonical_location: https://kanripo.org/bkk/KR6v0551/LC/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 印度佛學源流略講
+  identifiers:
+    krp: KR6v0551
+    cbeta: LC01n0001
+    cbeta_old_id: LC01n0001
+    authorityid: CA0008257
+    json_key: LC0001
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/LC/LC01/LC01n0001.xml
+    old_id: LC01n0001
+  edition:
+    short: LC
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0551_000-LC.yaml, hash: 'sha256:35b24834a77b98522e83c6b6c042fad0c97d05a058452993a195a9e626d3f2f4'}
+  - {seq: 2, filename: KR6v0551_002-LC.yaml, hash: 'sha256:3ad89f1e9799772e4221cd3e05a44c43015c945c09b2343027cd1196ed8736af'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0551_000-LC.markers.yaml, hash: 'sha256:4fa5e6c6d96d77335f1983bb486b3beeb3639eb2d28ba917a4d5307a45e226cc'}
+  - {seq: 2, role: markers, filename: assets/KR6v0551_002-LC.markers.yaml, hash: 'sha256:7c94c48ef3b54d6cc9cd2d41b8b46d33389dd49220bef6c997c984836e945816'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0551_LC_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 作者簡介
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0551_LC_000-mulu-2
+    span:
+    - front
+    - 138
+    - 138
+  label: 絕世天資佛學啟蒙
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0551_LC_000-mulu-3
+    span:
+    - front
+    - 559
+    - 559
+  label: 金陵事師創新講學
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0551_LC_000-mulu-4
+    span:
+    - front
+    - 1194
+    - 1194
+  label: 勤奮研究揚名國際
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0551_LC_000-mulu-5
+    span:
+    - front
+    - 1615
+    - 1615
+  label: 著述研究為教忘我
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0551_LC_000-mulu-6
+    span:
+    - front
+    - 2278
+    - 2278
+  label: 振響當世流韻未來
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-juan-start
+    span:
+    - body
+    - 0
+    - 200888
+  label: 呂澂佛學論著選集卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 印度佛學源流略講
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-2
+    span:
+    - body
+    - 8
+    - 8
+  label: 緒論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-3
+    span:
+    - body
+    - 4188
+    - 4188
+  label: 第一講　原始佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-4
+    span:
+    - body
+    - 4971
+    - 4971
+  label: 第一節　釋迦的時代
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-5
+    span:
+    - body
+    - 8248
+    - 8248
+  label: 第二節　原始佛學的構成
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-6
+    span:
+    - body
+    - 10981
+    - 10981
+  label: 第三節　原始佛學的要點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-7
+    span:
+    - body
+    - 13642
+    - 13642
+  label: 第二講　部派佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-8
+    span:
+    - body
+    - 13658
+    - 13658
+  label: 第一節　佛學分派的經過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-9
+    span:
+    - body
+    - 21786
+    - 21786
+  label: 第二節　上座系學說的要點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-10
+    span:
+    - body
+    - 28326
+    - 28326
+  label: 第三節　說一切有部系學說的要點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-11
+    span:
+    - body
+    - 35768
+    - 35768
+  label: 第四節　犢子系學說的要點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-12
+    span:
+    - body
+    - 41199
+    - 41199
+  label: 第五節　大眾系學說的要點
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-13
+    span:
+    - body
+    - 47778
+    - 47778
+  label: 第三講　初期大乘佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-14
+    span:
+    - body
+    - 48795
+    - 48795
+  label: 第一節　初期流行的大乘經典及其主要思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-15
+    span:
+    - body
+    - 56899
+    - 56899
+  label: 第二節　龍樹的學說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-16
+    span:
+    - body
+    - 68804
+    - 68804
+  label: 第三節　提婆及其後的傳承
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-17
+    span:
+    - body
+    - 76993
+    - 76993
+  label: 第四講　小乘佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-18
+    span:
+    - body
+    - 78625
+    - 78625
+  label: 第一節　有部及新有部的學說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-19
+    span:
+    - body
+    - 87339
+    - 87339
+  label: 第二節　經部和正量部的學說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-20
+    span:
+    - body
+    - 97605
+    - 97605
+  label: 第五講　中期大乘佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-21
+    span:
+    - body
+    - 97854
+    - 97854
+  label: 第一節　時代背景
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-22
+    span:
+    - body
+    - 101952
+    - 101952
+  label: 第二節　續出的大乘經及其主要思想
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-23
+    span:
+    - body
+    - 110490
+    - 110490
+  label: 第三節　無著世親的學說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-24
+    span:
+    - body
+    - 117013
+    - 117013
+  label: 第四節　瑜伽行學派和中觀學派
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-25
+    span:
+    - body
+    - 130180
+    - 130180
+  label: 第六講　晚期大乘佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-26
+    span:
+    - body
+    - 130621
+    - 130621
+  label: 第一節　時代背景
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-27
+    span:
+    - body
+    - 133879
+    - 133879
+  label: 第二節　法稱、月官與瑜伽行派
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-28
+    span:
+    - body
+    - 142029
+    - 142029
+  label: 第三節　月稱、寂天與中觀學派
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-29
+    span:
+    - body
+    - 148756
+    - 148756
+  label: 餘論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-30
+    span:
+    - body
+    - 154292
+    - 154292
+  label: 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-31
+    span:
+    - body
+    - 154294
+    - 154294
+  label: 談南傳的佛滅年代
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-32
+    span:
+    - body
+    - 156856
+    - 156856
+  label: 略論南方上座部佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-33
+    span:
+    - body
+    - 160838
+    - 160838
+  label: 略述有部學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-34
+    span:
+    - body
+    - 164225
+    - 164225
+  label: 阿毗達磨泛論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-35
+    span:
+    - body
+    - 164231
+    - 164231
+  label: 一　阿毗達磨與小乘派別之關係
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-36
+    span:
+    - body
+    - 165954
+    - 165954
+  label: 二　初期有部阿毗達磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-37
+    span:
+    - body
+    - 167758
+    - 167758
+  label: 三　第二三期有部阿毗達磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-38
+    span:
+    - body
+    - 169350
+    - 169350
+  label: 四　大小乘論書之交涉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-39
+    span:
+    - body
+    - 170889
+    - 170889
+  label: 五　大乘阿毗達磨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-40
+    span:
+    - body
+    - 172339
+    - 172339
+  label: 略述正量部佛學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-41
+    span:
+    - body
+    - 176628
+    - 176628
+  label: 毗曇的文獻源流——《阿毗曇心論講要》序言之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-42
+    span:
+    - body
+    - 179148
+    - 179148
+  label: 略述經部學
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-43
+    span:
+    - body
+    - 187412
+    - 187412
+  label: 佛家邏輯——法稱的因明說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-44
+    span:
+    - body
+    - 187422
+    - 187422
+  label: 一　序說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-45
+    span:
+    - body
+    - 188792
+    - 188792
+  label: 二　現量
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-46
+    span:
+    - body
+    - 190940
+    - 190940
+  label: 三　為自比量
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-47
+    span:
+    - body
+    - 193542
+    - 193542
+  label: 四　為他比量一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-48
+    span:
+    - body
+    - 195756
+    - 195756
+  label: 五　為他比量二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0551_LC_002-mulu-49
+    span:
+    - body
+    - 198656
+    - 198656
+  label: 六　結論
+  type: mulu
+  level: 1
+hash: sha256:07e183b8fdb483f2c9256d07c42362a011e4927eca90db7921bce32b9b478c54
