@@ -19,17 +19,17 @@ metadata:
     short: LC
 assets:
   parts:
-  - {seq: 0, filename: KR6v0551_000-LC.yaml, hash: 'sha256:35b24834a77b98522e83c6b6c042fad0c97d05a058452993a195a9e626d3f2f4'}
+  - {seq: 0, filename: KR6v0551_000-LC.yaml, hash: 'sha256:c0897115be4b4a4c28e0cfc58b13d24bb0f25a1427bd71be51974851645f89d1'}
   - {seq: 2, filename: KR6v0551_002-LC.yaml, hash: 'sha256:3ad89f1e9799772e4221cd3e05a44c43015c945c09b2343027cd1196ed8736af'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0551_000-LC.markers.yaml, hash: 'sha256:4fa5e6c6d96d77335f1983bb486b3beeb3639eb2d28ba917a4d5307a45e226cc'}
+  - {seq: 0, role: markers, filename: assets/KR6v0551_000-LC.markers.yaml, hash: 'sha256:c6217e05d1ef6fcd44a529461fdd5c37ccd879711eb4d28e587c652ed5913523'}
   - {seq: 2, role: markers, filename: assets/KR6v0551_002-LC.markers.yaml, hash: 'sha256:7c94c48ef3b54d6cc9cd2d41b8b46d33389dd49220bef6c997c984836e945816'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 作者簡介
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-2
     span:
-    - front
+    - body
     - 138
     - 138
   label: 絕世天資佛學啟蒙
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-3
     span:
-    - front
+    - body
     - 559
     - 559
   label: 金陵事師創新講學
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-4
     span:
-    - front
+    - body
     - 1194
     - 1194
   label: 勤奮研究揚名國際
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-5
     span:
-    - front
+    - body
     - 1615
     - 1615
   label: 著述研究為教忘我
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-6
     span:
-    - front
+    - body
     - 2278
     - 2278
   label: 振響當世流韻未來
@@ -585,4 +585,4 @@ table_of_contents:
   label: 六　結論
   type: mulu
   level: 1
-hash: sha256:07e183b8fdb483f2c9256d07c42362a011e4927eca90db7921bce32b9b478c54
+hash: sha256:fe2bccc90705547a8ffbafe18ffce9da32b05bad1d11097430e9887766c49bf8

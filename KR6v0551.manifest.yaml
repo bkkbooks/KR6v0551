@@ -18,17 +18,17 @@ editions:
 - short: LC
 assets:
   parts:
-  - {seq: 0, filename: KR6v0551_000.yaml, hash: 'sha256:a7e0dae973e3b211310276724f62360f339f5d43dfd906af942dd842a6e505d2'}
+  - {seq: 0, filename: KR6v0551_000.yaml, hash: 'sha256:6d33e852d7eb05a5019c1ffce2f3b50adbe0d9c3eea8ec06697ddbb5d112d1c4'}
   - {seq: 2, filename: KR6v0551_002.yaml, hash: 'sha256:9fda50d7e9ae25f447f4695f4ca6e1f40d9fb84f1aba65dc86cc0afeed9d2247'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0551_000.markers.yaml, hash: 'sha256:53f6546825b53345561a16178b2165407fde2c743ea7dde33fb2ee6496649ad2'}
+  - {seq: 0, role: markers, filename: assets/KR6v0551_000.markers.yaml, hash: 'sha256:63d52f96beeee78d1ab7299de89ab3db17de0b5847a299a34d339981afda2634'}
   - {seq: 2, role: markers, filename: assets/KR6v0551_002.markers.yaml, hash: 'sha256:c6d1ea9ffbacc05d06a04bce24e6bd9b841c5e6df6ca6eec63ddc4232308a137'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 作者簡介
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-2
     span:
-    - front
+    - body
     - 138
     - 138
   label: 絕世天資佛學啟蒙
@@ -48,7 +48,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-3
     span:
-    - front
+    - body
     - 559
     - 559
   label: 金陵事師創新講學
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-4
     span:
-    - front
+    - body
     - 1194
     - 1194
   label: 勤奮研究揚名國際
@@ -68,7 +68,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-5
     span:
-    - front
+    - body
     - 1615
     - 1615
   label: 著述研究為教忘我
@@ -78,7 +78,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0551_LC_000-mulu-6
     span:
-    - front
+    - body
     - 2278
     - 2278
   label: 振響當世流韻未來
@@ -584,7 +584,7 @@ table_of_contents:
   label: 六　結論
   type: mulu
   level: 1
-hash: sha256:e79a5ddeb2feb0a0d78ce3b1db7bf3a1f98f1f4a722b015cc17a8bacd9cbc738
+hash: sha256:0236d7202f852cc86632b9e187ad94b963788787be712cdb428fefce1d890904
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
